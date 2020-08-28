@@ -1,4 +1,4 @@
-
+<script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1279220301&web_id=1279220301"></script>
 <!-- theme purenice designed & coded by wendale v1.1 Responsive fixed on May 1st-->
 <!DOCTYPE html>
 <html lang="<?php echo $constStr['language']; ?>">
